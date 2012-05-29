@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Titanium API Search",
+                "mnemonic": "f",
+                "id": "titaniumsearch",
+                "children":
+                [
+                    {
+                        "command": "titanium_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "titanium_search_from_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]

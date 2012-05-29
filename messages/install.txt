@@ -1,0 +1,5 @@
+Simple search on Titanium API by Jose Carlos Andreu
+
+Based on the code by Eric Martel from https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin
+
+Provide feedback to joscandreu@gmail.com 

@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Titanium API: Search Selection",
+        "command": "titanium_search_selection"
+    },
+    {
+        "caption": "Titanium API: Search from Input",
+        "command": "titanium_search_from_input"
+    }
+]
