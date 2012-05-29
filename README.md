@@ -4,7 +4,9 @@ A plugin to search on Titanium API.
 
 ## Install
 
-The preferred method is to use the [Sublime Package Manager](http://wbond.net/sublime_packages/package_control). Alternatively, the files can be obtained on github:
+The plugin will be soon ready to install through Package Control
+
+The files can be obtained on github and copied into the packages folder of your ST2 installation:
 
     $ https://github.com/joseitinerarium/ST2-TiSearch
 
