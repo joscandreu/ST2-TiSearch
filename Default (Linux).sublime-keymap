@@ -1,0 +1,8 @@
+[
+    {
+        "keys": ["ctrl+super+i"], "command": "titanium_search_from_input"
+    },
+    {
+        "keys": ["ctrl+super+s"], "command": "titanium_search_selection"
+    }
+]
